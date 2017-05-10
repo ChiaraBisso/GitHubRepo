@@ -1,0 +1,1 @@
+echo boh > %public%\documents\boh.txt
